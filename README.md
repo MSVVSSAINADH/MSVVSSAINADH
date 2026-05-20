@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Macharla Sainadh
 
+![](https://komarev.com/ghpvc/?username=MSVVSSAINADH&color=blueviolet)
+
 ## 🚀 About Me
 
 * 🎓 Final Year BTech CSE Student
@@ -90,6 +92,25 @@ Cybersecurity, AI, Offensive Security
 
 ---
 
+## 🏥 Hospital Management System (HMS)
+
+A web-based hospital management platform designed to streamline patient records, appointments, doctor management, and hospital operations.
+
+### Features
+
+* Patient Registration & Record Management
+* Doctor & Staff Management
+* Appointment Scheduling
+* Secure Login System
+* Billing & Report Generation
+* Admin Dashboard
+
+### Tech Stack
+
+Java, MySQL, HTML, CSS, JavaScript
+
+---
+
 # 📈 Currently Learning
 
 * Advanced DSA & LeetCode
@@ -112,6 +133,8 @@ Cybersecurity, AI, Offensive Security
 
 ```md
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSVVSSAINADH&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MSVVSSAINADH&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSVVSSAINADH&layout=compact&theme=tokyonight)
 ```
