@@ -111,10 +111,11 @@ A web-based hospital management application for managing patients, appointments,
 - Python & AI Learning Programs
 
 ---
-
 # 📊 GitHub Analytics
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSVVSSAINADH&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSVVSSAINADH&theme=tokyonight" width="95%"/>
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MSVVSSAINADH&theme=tokyonight" height="180em"/>
@@ -125,20 +126,36 @@ A web-based hospital management application for managing patients, appointments,
 
 # 💻 Coding Profiles
 
-<p align="left">
-  <a href="https://leetcode.com/u/msvvssainadh/">LeetCode</a> •
-  <a href="https://www.hackerrank.com/profile/msvvssainadh">HackerRank</a> •
-  <a href="https://www.codechef.com/users/msvvssainadh">CodeChef</a>
+<p align="center">
+  <a href="https://leetcode.com/u/msvvssainadh/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  
+  <a href="https://www.hackerrank.com/profile/msvvssainadh" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.codechef.com/users/msvvssainadh" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/msvvssainadh/">LinkedIn</a> •
-  <a href="https://github.com/MSVVSSAINADH">GitHub</a> •
-  <a href="mailto:macharlasainadh2506@gmail.com">Email</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/msvvssainadh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/MSVVSSAINADH" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="mailto:macharlasainadh2506@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
