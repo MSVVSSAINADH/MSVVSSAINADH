@@ -129,12 +129,11 @@ Java, MySQL, HTML, CSS, JavaScript
 
 # 📊 GitHub Stats
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSVVSSAINADH&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSVVSSAINADH&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MSVVSSAINADH&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSVVSSAINADH&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSVVSSAINADH&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 
 ---
