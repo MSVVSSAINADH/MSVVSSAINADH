@@ -128,11 +128,11 @@ Java, MySQL, HTML, CSS, JavaScript
 ---
 # 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=MSVVSSAINADH&show_icons=true&theme=tokyonight" height="180em"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSVVSSAINADH&theme=tokyonight)
 
-<img src="https://streak-stats.demolab.com?user=MSVVSSAINADH&theme=tokyonight" height="180em"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MSVVSSAINADH&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSVVSSAINADH&layout=compact&theme=tokyonight" height="180em"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MSVVSSAINADH&theme=tokyonight)
 
 ---
 
