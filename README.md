@@ -1,22 +1,16 @@
 <h1 align="center">Hi 👋, I'm Macharla Sainadh</h1>
 <h3 align="center">Full Stack Developer | Cybersecurity Enthusiast | AI Explorer</h3>
 
-<p align="center">
-  <a href="https://github.com/MSVVSSAINADH">
-    <img src="https://komarev.com/ghpvc/?username=MSVVSSAINADH&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
 
-- 🎓 Final Year BTech CSE Student
-- 💻 Passionate about Full Stack Development, Cybersecurity, and AI
-- 🔐 Interested in Secure Software Development & Offensive Security
-- 🌱 Currently learning DSA, Backend Engineering, and Cloud Fundamentals
-- 🚀 Building scalable real-world applications and improving problem-solving skills
-- 🎯 Aspiring Software Engineer focused on Backend & Security Engineering
+- Final Year BTech CSE Student
+- Full Stack Developer with interest in Backend Engineering and Cybersecurity
+- Passionate about building secure, scalable, and real-world software applications
+- Currently strengthening DSA, System Design, and Cloud fundamentals
+- Experienced in developing full stack projects using React.js, Spring Boot, and MySQL
+- Aspiring Software Engineer focused on Backend Development & Security Engineering
 
 ---
 
@@ -24,12 +18,12 @@
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
 </p>
 
 ### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,spring,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,spring,html,css,tailwind" />
 </p>
 
 ### 🗄️ Database & Tools
@@ -96,11 +90,10 @@ A web-based hospital management application for managing patients, appointments,
 
 ## 📈 Currently Learning
 
-- Advanced Data Structures & Algorithms
-- System Design Fundamentals
-- Cloud & DevOps Basics
+- DSA & Problem Solving
+- System Design Basics
+- Cloud & DevOps Fundamentals
 - Cybersecurity Tools & Techniques
-- AI & Data Science
 
 ---
 
@@ -111,6 +104,7 @@ A web-based hospital management application for managing patients, appointments,
 - Python & AI Learning Programs
 
 ---
+
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -160,4 +154,4 @@ A web-based hospital management application for managing patients, appointments,
 
 ---
 
-<h3 align="center">⭐ Building secure, scalable, and impactful software solutions</h3>
+<h3 align="center">Building secure, scalable, and impactful software solutions</h3>
