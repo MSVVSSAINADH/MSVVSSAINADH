@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Macharla Sainadh
 
-![](https://komarev.com/ghpvc/?username=MSVVSSAINADH&color=blueviolet)
-
 ## 🚀 About Me
 
 * 🎓 Final Year BTech CSE Student
@@ -131,13 +129,13 @@ Java, MySQL, HTML, CSS, JavaScript
 
 # 📊 GitHub Stats
 
-```md
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSVVSSAINADH&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MSVVSSAINADH&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSVVSSAINADH&layout=compact&theme=tokyonight)
-```
+
 
 ---
 
