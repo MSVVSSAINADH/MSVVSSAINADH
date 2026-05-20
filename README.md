@@ -126,15 +126,13 @@ Java, MySQL, HTML, CSS, JavaScript
 * Python & AI Learning Paths
 
 ---
-
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSVVSSAINADH&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<img src="https://github-readme-stats.vercel.app/api?username=MSVVSSAINADH&show_icons=true&theme=tokyonight" height="180em"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MSVVSSAINADH&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=MSVVSSAINADH&theme=tokyonight" height="180em"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSVVSSAINADH&layout=compact&theme=tokyonight&cache_seconds=1800)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSVVSSAINADH&layout=compact&theme=tokyonight" height="180em"/>
 
 ---
 
