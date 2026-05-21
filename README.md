@@ -56,7 +56,7 @@ A scalable full stack car rental platform with secure authentication, RESTful AP
 
 ---
 
-## 🛡️ Skill-Palaver-Offensive-AI
+## 🛡️ Offensive AI Simulator
 
 An Offensive AI simulation platform designed for cybersecurity awareness and adaptive red-team training.
 
