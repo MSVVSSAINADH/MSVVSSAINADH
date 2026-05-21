@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Macharla Sainadh</h1>
-<h3 align="center">Full Stack Developer | Cybersecurity Enthusiast | AI Explorer</h3>
+<h3 align="center">Full Stack Developer | Backend Engineering | Cybersecurity</h3>
 
 ---
 
 ## 🚀 About Me
 
 - Final Year BTech CSE Student
-- Full Stack Developer with interest in Backend Engineering and Cybersecurity
-- Passionate about building secure, scalable, and real-world software applications
+- Full Stack Developer focused on Backend Engineering and Cybersecurity
+- Passionate about building scalable and secure software applications
+- Experienced with React.js, Spring Boot, REST APIs, and MySQL
 - Currently strengthening DSA, System Design, and Cloud fundamentals
-- Experienced in developing full stack projects using React.js, Spring Boot, and MySQL
-- Aspiring Software Engineer focused on Backend Development & Security Engineering
+- Aspiring Software Engineer focused on Backend & Security Engineering
 
 ---
 
@@ -34,7 +34,7 @@
 ### 🔐 Cybersecurity & AI
 - Network Security Fundamentals
 - Offensive Security Concepts
-- AI & Machine Learning Fundamentals
+- AI & Machine Learning Concepts
 
 ---
 
@@ -42,7 +42,7 @@
 
 ## 🚗 Car Rental System
 
-A full stack car rental platform featuring secure authentication, booking management, dashboards, invoice generation, and dynamic pricing.
+A scalable full stack car rental platform with secure authentication, RESTful APIs, booking management, and dynamic pricing workflows.
 
 ### 🔹 Key Features
 - JWT Authentication & RBAC
@@ -62,7 +62,7 @@ An Offensive AI simulation platform designed for cybersecurity awareness and ada
 
 ### 🔹 Key Features
 - Adaptive Password Attack Simulation
-- Password Pattern Analyzer
+- Password Pattern Analysis
 - NLP-Based Chat Interaction
 - Phishing Susceptibility Modeling
 - Hybrid Crack Time Estimation
@@ -74,14 +74,14 @@ An Offensive AI simulation platform designed for cybersecurity awareness and ada
 
 ## 🏥 Hospital Management System (HMS)
 
-A web-based hospital management application for managing patients, appointments, billing, and administration.
+A hospital management application designed to streamline patient records, appointment scheduling, billing, and administrative workflows.
 
 ### 🔹 Key Features
 - Patient & Doctor Management
 - Appointment Scheduling
 - Billing & Reports
 - Secure Authentication
-- Admin Dashboard
+- Administrative Dashboard
 
 ### ⚙️ Tech Stack
 `Java` `MySQL` `HTML` `CSS` `JavaScript`
@@ -91,8 +91,8 @@ A web-based hospital management application for managing patients, appointments,
 ## 📈 Currently Learning
 
 - DSA & Problem Solving
-- System Design Basics
-- Cloud & DevOps Fundamentals
+- System Design Fundamentals
+- Cloud & DevOps Basics
 - Cybersecurity Tools & Techniques
 
 ---
@@ -154,4 +154,4 @@ A web-based hospital management application for managing patients, appointments,
 
 ---
 
-<h3 align="center">Building secure, scalable, and impactful software solutions</h3>
+<h3 align="center">Focused on building secure, scalable, and efficient software systems</h3>
